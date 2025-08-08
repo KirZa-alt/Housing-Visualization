@@ -1,0 +1,10 @@
+ 🏡 Overall Story:
+
+The Housing dataset paints a vivid picture of a diverse real estate market.  
+
+- Bigger houses generally cost more, but outliers in both area and price show that some properties defy expectations.  
+- Furnished homes tend to command premium prices.  
+- More bedrooms often push prices higher, but location and amenities can make a smaller home just as valuable as a larger one.  
+
+💡 The data tells us one thing clearly:  
+In real estate, numbers matter — but the real story lies in the unique combination of size, features, and desirability.
